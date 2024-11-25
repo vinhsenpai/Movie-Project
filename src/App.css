@@ -1,0 +1,80 @@
+div.container {
+  display: grid;
+  width: 1340px;
+  padding: 15px 83px 15px 83px;
+  gap: 29px;
+  opacity: 0px;
+  background: #192026;
+  box-sizing: border-box;
+  justify-self: center;
+}
+
+div.explore-test {
+  width: 118px;
+  height: 36px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: center;
+  text-underline-position: under;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+
+div.question-test {
+  width: 393px;
+  height: 25px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 24.75px;
+  text-align: center;
+  text-underline-position: under;
+  text-decoration-skip-ink: none;
+  color: #868686;
+}
+
+div.banner {
+  width: 1170px;
+  height: 400px;
+  gap: 0px;
+  border-radius: 12px 0px 0px 0px;
+  opacity: 0px;
+
+}
+
+div.lastestRelease {
+  display: grid;
+  width: 1170px;
+  height: 361.87px;
+  gap: 24px;
+  opacity: 0px;
+}
+
+div.newRelease-test {
+  width: 234px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: left;
+  text-underline-position: under;
+  text-decoration-skip-ink: none;
+  color: #FFFFFF;
+}
+
+div.anime-list {
+  display: flex;
+  width: 1170px;
+  height: 305.87px;
+  gap: 30px;
+  opacity: 0px;
+}
